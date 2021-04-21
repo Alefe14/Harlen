@@ -1,0 +1,935 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="aande.br" tvg-name="A&E HD" tvg-logo="http://toptv2.com:25461/logos/A&E_HD.png" group-title="CANAIS| Filmes e Séries",A&E HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13665.m3u8
+#EXTINF:-1 tvg-id="A&E" tvg-name="A&E FHD" tvg-logo="http://toptv2.com:25461/logos/A&E_HD.png" group-title="CANAIS| Filmes e Séries",A&E FHD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/33360.m3u8
+#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC" tvg-logo="http://toptv2.com:25461/logos/amc.png" group-title="CANAIS| Filmes e Séries",AMC
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/14167.m3u8
+#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC HD" tvg-logo="http://toptv2.com:25461/logos/Amc_HD.png" group-title="CANAIS| Filmes e Séries",AMC HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/14132.m3u8
+#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC HD" tvg-logo="http://toptv2.com:25461/logos/Amc_HD.png" group-title="CANAIS| Filmes e Séries",AMC HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/14158.m3u8
+#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN HD" tvg-logo="http://toptv2.com:25461/logos/axn-HD.png" group-title="CANAIS| Filmes e Séries",AXN HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13667.m3u8
+#EXTINF:-1 tvg-id="AXN HD" tvg-name="AXN HD" tvg-logo="http://toptv2.com:25461/logos/axn-HD.png" group-title="CANAIS| Filmes e Séries",AXN HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/36411.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CANAL BRASIL HD" tvg-logo="http://toptv2.com:25461/logos/CANAL_BRASIL_HD.png" group-title="CANAIS| Filmes e Séries",CANAL BRASIL HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13672.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CANAL SONY HD" tvg-logo="http://toptv2.com:25461/logos/Canal_Sony_HD.png" group-title="CANAIS| Filmes e Séries",CANAL SONY HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13730.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAX HD" tvg-logo="http://toptv2.com:25461/logos/cinemax.png" group-title="CANAIS| Filmes e Séries",CINEMAX HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/41362.m3u8
+#EXTINF:-1 tvg-id="cinemax.br" tvg-name="CINEMAX HD" tvg-logo="http://toptv2.com:25461/logos/cinemax_HD.png" group-title="CANAIS| Filmes e Séries",CINEMAX HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13674.m3u8
+#EXTINF:-1 tvg-id="comedycentral.br" tvg-name="COMEDY CENTRAL HD" tvg-logo="http://toptv2.com:25461/logos/Comedy_Central.png" group-title="CANAIS| Comédia",COMEDY CENTRAL HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/27255.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FILM & ARTS HD" tvg-logo="http://toptv2.com:25461/logos/filmandarts.png" group-title="CANAIS| Filmes e Séries",FILM & ARTS HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/14110.m3u8
+#EXTINF:-1 tvg-id="fox.br" tvg-name="STAR CHANNEL HD" tvg-logo="http://main.itsmydonow.xyz:2095/logos/STAR_CHANNEL_.png" group-title="CANAIS| Filmes e Séries",STAR CHANNEL HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13690.m3u8
+#EXTINF:-1 tvg-id="foxlife.br" tvg-name="STAR LIFE HD" tvg-logo="http://main.itsmydonow.xyz:2095/logos/STAR_LIFE_.png" group-title="CANAIS| Filmes e Séries",STAR LIFE HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13691.m3u8
+#EXTINF:-1 tvg-id="foxpremium1.br" tvg-name="STAR HITS 1 HD" tvg-logo="http://main.itsmydonow.xyz:2095/logos/STAR_HITS_.png" group-title="CANAIS| Filmes e Séries",STAR HITS 1 HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13692.m3u8
+#EXTINF:-1 tvg-id="foxpremium2.br" tvg-name="STAR HITS 2 HD" tvg-logo="http://main.itsmydonow.xyz:2095/logos/STAR_HITS2_.png" group-title="CANAIS| Filmes e Séries",STAR HITS 2 HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13693.m3u8
+#EXTINF:-1 tvg-id="fx.br" tvg-name="FX HD" tvg-logo="http://toptv2.com:25461/logos/FX_HD.png" group-title="CANAIS| Filmes e Séries",FX HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13696.m3u8
+#EXTINF:-1 tvg-id="hboplusbrasil.br" tvg-name="HBO + HD" tvg-logo="http://toptv2.com:25461/logos/HBO_Plus.png" group-title="CANAIS| Filmes e Séries",HBO + HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13858.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO + HD" tvg-logo="http://toptv2.com:25461/logos/HBO_Plus.png" group-title="CANAIS| Filmes e Séries",HBO + HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13707.m3u8
+#EXTINF:-1 tvg-id="hbo2.br" tvg-name="HBO 2 HD" tvg-logo="http://toptv2.com:25461/logos/HBO2.png" group-title="CANAIS| Filmes e Séries",HBO 2 HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13704.m3u8
+#EXTINF:-1 tvg-id="hbo2.br" tvg-name="HBO 2 HD" tvg-logo="http://toptv2.com:25461/logos/HBO2_HD.png" group-title="CANAIS| Filmes e Séries",HBO 2 HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13861.m3u8
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO HD" tvg-logo="http://toptv2.com:25461/logos/HBO.png" group-title="CANAIS| Filmes e Séries",HBO HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13699.m3u8
+#EXTINF:-1 tvg-id="hbofamily.br" tvg-name="HBO FAMILY HD" tvg-logo="http://toptv2.com:25461/logos/HBO_Family.png" group-title="CANAIS| Filmes e Séries",HBO FAMILY HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13874.m3u8
+#EXTINF:-1 tvg-id="hbofamily.br" tvg-name="HBO FAMILY HD" tvg-logo="http://toptv2.com:25461/logos/HBO_Family_HD.png" group-title="CANAIS| Filmes e Séries",HBO FAMILY HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13705.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO HD" tvg-logo="http://toptv2.com:25461/logos/HBO.png" group-title="CANAIS| Filmes e Séries",HBO HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13706.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO MUNDI HD" tvg-logo="https://operadores.hbo-la.tv/v2/img/nav-logos/hbo-mundi.png" group-title="CANAIS| Filmes e Séries",HBO MUNDI HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13712.m3u8
+#EXTINF:-1 tvg-id="hboplusbrasil.br" tvg-name="HBO PLUS E HD" tvg-logo="http://toptv2.com:25461/logos/HBO_Plus_E_HD.png" group-title="CANAIS| Filmes e Séries",HBO PLUS E HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13805.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO POP HD" tvg-logo="https://www.vivo.com.br/content/dam/vivo-sites/vivo-com-br/homepage/imagens/logos/logo-canal-hbo-pop-252x252.png" group-title="CANAIS| Filmes e Séries",HBO POP HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13859.m3u8
+#EXTINF:-1 tvg-id="hbosignature.br" tvg-name="HBO SIGNATURE HD" tvg-logo="http://toptv2.com:25461/logos/HBO_Signature_HD.png" group-title="CANAIS| Filmes e Séries",HBO SIGNATURE HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/14155.m3u8
+#EXTINF:-1 tvg-id="hbosignature.br" tvg-name="HBO SIGNATURE HD" tvg-logo="http://toptv2.com:25461/logos/HBO_Signature_HD.png" group-title="CANAIS| Filmes e Séries",HBO SIGNATURE HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13708.m3u8
+#EXTINF:-1 tvg-id="maxprimee.br" tvg-name="HBO XTREME HD" tvg-logo="https://i1.wp.com/livetv.tube/wp-content/uploads/2020/02/hbo-xtreme-ao-vivo-1.png?fit=300%2C300&ssl=1" group-title="CANAIS| Filmes e Séries",HBO XTREME HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13713.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="I-SAT HD" tvg-logo="http://toptv2.com:25461/logos/I.Sat_logo.png" group-title="CANAIS| Filmes e Séries",I-SAT HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13881.m3u8
+#EXTINF:-1 tvg-id="megapix.br" tvg-name="MEGAPIX HD" tvg-logo="http://toptv2.com:25461/logos/Megapix_HD.png" group-title="CANAIS| Filmes e Séries",MEGAPIX HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13715.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MEGAPIX HD" tvg-logo="http://toptv2.com:25461/logos/Megapix.png" group-title="CANAIS| Filmes e Séries",MEGAPIX HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/41363.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT CHANNEL HD" tvg-logo="http://toptv2.com:25461/logos/paramount.png" group-title="CANAIS| Filmes e Séries",PARAMOUNT CHANNEL HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/41364.m3u8
+#EXTINF:-1 tvg-id="paramount.br" tvg-name="PARAMOUNT HD" tvg-logo="http://toptv2.com:25461/logos/paramount_HD.png" group-title="CANAIS| Filmes e Séries",PARAMOUNT HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13722.m3u8
+#EXTINF:-1 tvg-id="maxprimebrasil.br" tvg-name="PRIME BOX BRASIL HD" tvg-logo="http://toptv2.com:25461/logos/PrimeBoxBrazil.png" group-title="CANAIS| Filmes e Séries",PRIME BOX BRASIL HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13810.m3u8
+#EXTINF:-1 tvg-id="space.br" tvg-name="SPACE HD" tvg-logo="http://toptv2.com:25461/logos/SPACE_HD.png" group-title="CANAIS| Filmes e Séries",SPACE HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/14164.m3u8
+#EXTINF:-1 tvg-id="space.br" tvg-name="SPACE HD" tvg-logo="http://toptv2.com:25461/logos/SPACE_HD.png" group-title="CANAIS| Filmes e Séries",SPACE HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13731.m3u8
+#EXTINF:-1 tvg-id="studiouniversal.br" tvg-name="STUDIO UNIVERSAL HD" tvg-logo="http://toptv2.com:25461/logos/Studio_Universal.png" group-title="CANAIS| Filmes e Séries",STUDIO UNIVERSAL HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13735.m3u8
+#EXTINF:-1 tvg-id="tbs.br" tvg-name="TBS HD" tvg-logo="http://toptv2.com:25461/logos/tbs_HD.png" group-title="CANAIS| Filmes e Séries",TBS HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/14152.m3u8
+#EXTINF:-1 tvg-id="tbs.br" tvg-name="TBS HD" tvg-logo="http://toptv2.com:25461/logos/tbs_HD.png" group-title="CANAIS| Filmes e Séries",TBS HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13737.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TCM HD" tvg-logo="http://toptv2.com:25461/logos/TCM.png" group-title="CANAIS| Filmes e Séries",TCM HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13891.m3u8
+#EXTINF:-1 tvg-id="tcm.br" tvg-name="TCM HD" tvg-logo="http://toptv2.com:25461/logos/TCM_HD.png" group-title="CANAIS| Filmes e Séries",TCM HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/14120.m3u8
+#EXTINF:-1 tvg-id="telecineaction.br" tvg-name="TELECINE ACTION HD" tvg-logo="http://toptv2.com:25461/logos/Telecine_Action_HD.png" group-title="CANAIS| Filmes e Séries",TELECINE ACTION HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/14171.m3u8
+#EXTINF:-1 tvg-id="telecineaction.br" tvg-name="TELECINE ACTION HD" tvg-logo="http://toptv2.com:25461/logos/Telecine_Action_HD.png" group-title="CANAIS| Filmes e Séries",TELECINE ACTION HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13738.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE CULT HD" tvg-logo="http://toptv2.com:25461/logos/Telecine_Cult_HD.png" group-title="CANAIS| Filmes e Séries",TELECINE CULT HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/14094.m3u8
+#EXTINF:-1 tvg-id="telecinecult.br" tvg-name="TELECINE CULT HD" tvg-logo="http://toptv2.com:25461/logos/Telecine_Cult_HD.png" group-title="CANAIS| Filmes e Séries",TELECINE CULT HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13739.m3u8
+#EXTINF:-1 tvg-id="telecinefun.br" tvg-name="TELECINE FUN HD" tvg-logo="http://toptv2.com:25461/logos/Telecine_Fun_HD.png" group-title="CANAIS| Filmes e Séries",TELECINE FUN HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/14104.m3u8
+#EXTINF:-1 tvg-id="telecinefun.br" tvg-name="TELECINE FUN HD" tvg-logo="http://toptv2.com:25461/logos/Telecine_Fun_HD.png" group-title="CANAIS| Filmes e Séries",TELECINE FUN HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13740.m3u8
+#EXTINF:-1 tvg-id="telecinepipoca.br" tvg-name="TELECINE PIPOCA HD" tvg-logo="http://toptv2.com:25461/logos/telecine_pipoca_HD.png" group-title="CANAIS| Filmes e Séries",TELECINE PIPOCA HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/14101.m3u8
+#EXTINF:-1 tvg-id="telecinepipoca.br" tvg-name="TELECINE PIPOCA HD" tvg-logo="http://toptv2.com:25461/logos/telecine_pipoca_HD.png" group-title="CANAIS| Filmes e Séries",TELECINE PIPOCA HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13741.m3u8
+#EXTINF:-1 tvg-id="telecinepremium.br" tvg-name="TELECINE PREMIUM HD" tvg-logo="http://toptv2.com:25461/logos/Telecine-Premium_HD.png" group-title="CANAIS| Filmes e Séries",TELECINE PREMIUM HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/14099.m3u8
+#EXTINF:-1 tvg-id="telecinepremium.br" tvg-name="TELECINE PREMIUM HD" tvg-logo="http://toptv2.com:25461/logos/Telecine-Premium_HD.png" group-title="CANAIS| Filmes e Séries",TELECINE PREMIUM HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13742.m3u8
+#EXTINF:-1 tvg-id="telecinetouch.br" tvg-name="TELECINE TOUCH HD" tvg-logo="http://toptv2.com:25461/logos/Telecine_Touch_HD.png" group-title="CANAIS| Filmes e Séries",TELECINE TOUCH HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/14162.m3u8
+#EXTINF:-1 tvg-id="telecinetouch.br" tvg-name="TELECINE TOUCH HD" tvg-logo="http://toptv2.com:25461/logos/Telecine_Touch_HD.png" group-title="CANAIS| Filmes e Séries",TELECINE TOUCH HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13743.m3u8
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT HD" tvg-logo="http://toptv2.com:25461/logos/Tnt-HD.png" group-title="CANAIS| Filmes e Séries",TNT HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/14098.m3u8
+#EXTINF:-1 tvg-id="tntseries.br" tvg-name="TNT SERIES HD" tvg-logo="http://toptv2.com:25461/logos/TNT_Serie_HD.png" group-title="CANAIS| Filmes e Séries",TNT SERIES HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/14134.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT SERIES HD" tvg-logo="http://toptv2.com:25461/logos/TNT_Serie_HD.png" group-title="CANAIS| Filmes e Séries",TNT SERIES HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13746.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT HD" tvg-logo="http://toptv2.com:25461/logos/Tnt-HD.png" group-title="CANAIS| Filmes e Séries",TNT HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13745.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL CHANNEL HD" tvg-logo="http://toptv2.com:25461/logos/Universal_Channel.png" group-title="CANAIS| Filmes e Séries",UNIVERSAL CHANNEL HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13747.m3u8
+#EXTINF:-1 tvg-id="warnerchannel.br" tvg-name="WARNER CHANNEL HD" tvg-logo="http://toptv2.com:25461/logos/warner.png" group-title="CANAIS| Filmes e Séries",WARNER CHANNEL HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13750.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SYFY HD" tvg-logo="" group-title="CANAIS| Filmes e Séries",SYFY HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44132.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BABY LAND" tvg-logo="" group-title="CANAIS| Filmes e Séries",BABY LAND
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44185.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AXN HD LEG" tvg-logo="https://media-exp1.licdn.com/dms/image/C4E0BAQE8Udvel-OdtA/company-logo_200_200/0?e=2159024400&v=beta&t=dJltNOaLsrczE0PnOChuPdgdpegZn0h1IBSOicStJY4" group-title="CANAIS| Legendados",AXN HD LEG
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/34256.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AXN BLACK HD LEG" tvg-logo="https://seeklogo.com/images/A/axn-black-logo-957F60EDA3-seeklogo.com.png" group-title="CANAIS| Legendados",AXN BLACK HD LEG
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/34257.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AXN WHITE HD LEG" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112015/axn_white.png?itok=-PuUuxuu" group-title="CANAIS| Legendados",AXN WHITE HD LEG
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/34258.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE MUNDO HD LEG" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSneX81hk55AP-IDCkkCI6HLXDpbHSkrB8afU6BWUUK-D8NVU4p" group-title="CANAIS| Legendados",CINE MUNDO HD LEG
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/34288.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL HD LEG" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052019/1280px-2019_discovery_logo.svg_.png?h8h75sfVrDkARtI9NxHArGmxW49BMJuI&itok=s5_yv3rT" group-title="CANAIS| Legendados",DISCOVERY CHANNEL HD LEG
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/34289.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY ID HD LEG" tvg-logo="https://dcom-prod.imgix.net/files/2018-12/ID-Logo-white.png" group-title="CANAIS| Legendados",DISCOVERY ID HD LEG
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/34311.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOX COMEDY HD LEG" tvg-logo="https://cdn.mitvstatic.com/channels/ar_fox-comedy-HD_m.png" group-title="CANAIS| Legendados",FOX COMEDY HD LEG
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/34278.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOX CRIME HD LEG" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRZ4NqeHDLocpEDx1aZJLfDqFqfiZWRn_SjHhvq9J90Rs6vr2Yj" group-title="CANAIS| Legendados",FOX CRIME HD LEG
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/34279.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOX MOVIES HD LEG" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSHfSUXj-pnlaUrvfc4_x7Wbr0KtlUnLXpnqBV3a6Z_weDvzaco" group-title="CANAIS| Legendados",FOX MOVIES HD LEG
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/34277.m3u8
+#EXTINF:-1 tvg-id="maxup.br" tvg-name="HBO 3 HD" tvg-logo="https://4.bp.blogspot.com/-e6U0SRAocBI/VvFq_nI11EI/AAAAAAAAPy4/vYR5oufvEvUxJsuIV3NH7gTh_WS8iZCbQ/s1600/HBO%2B3%2BHD%2Bwhite%2Bbg.jpg" group-title="CANAIS| Legendados",HBO 3 HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13714.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO MUNDI HD LEG" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSp9MQDg-8hwTnZBPAGRTM0KCL1TkbdAGYZiQ&usqp=CAU" group-title="CANAIS| Legendados",HBO MUNDI HD LEG
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/36279.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO POP HD LEG" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTYQ8DMRG2YSq3na0Y0WOKsq9RtO8VT9i2U6s5T61j9XkGbSGj0" group-title="CANAIS| Legendados",HBO POP HD LEG
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/36281.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO XTREME HD LEG" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT1lFY1SFjvO1rz5PE9-eLXUPNCbCx2F5gDwJr3MyZXdFv8HVwl" group-title="CANAIS| Legendados",HBO XTREME HD LEG
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/36280.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRASHIC HD LEG" tvg-logo="https://www.swapy.com.br/wp-content/uploads/2019/07/nationa-geographic.png" group-title="CANAIS| Legendados",NATIONAL GEOGRASHIC HD LEG
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/34320.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SIC MULHER HD LEG" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0011/4575/brand.gif?itok=ihFEaiAi" group-title="CANAIS| Legendados",SIC MULHER HD LEG
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/34284.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVC 1 HD LEG" tvg-logo="https://4.bp.blogspot.com/_m9pOjNr3Zn8/SL8l22HvEII/AAAAAAAACG0/_bYo1wCIues/s320/tvcine1.jpg" group-title="CANAIS| Legendados",TVC 1 HD LEG
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/34271.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVC 2 HD LEG" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRnSQ0mRuIglkyDa7PsxORInCKhauKYWqNBaPMPTVkcvgMHmvyK" group-title="CANAIS| Legendados",TVC 2 HD LEG
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/34272.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVC 3 HD LEG" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSWUcJ8UwmQebVAIstUCSpzzPuU_D1gV6Xp5AEG33u2qYL4jH9w" group-title="CANAIS| Legendados",TVC 3 HD LEG
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/34273.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVC 4 HD LEG" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQOrqonQS0FOoz0kNzJKSPIHuEJHwg3GwsKfNrfDQhG2B10zygT" group-title="CANAIS| Legendados",TVC 4 HD LEG
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/34274.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVCINE ACTION LEG HD" tvg-logo="https://www.actigamer.pt/cnt/uploads/I20H001tvcineaction-e1583912767831.png" group-title="CANAIS| Legendados",TVCINE ACTION LEG HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/41875.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVCINE EDITION LEG HD" tvg-logo="https://www.dstvafrica.com/media/8918/tvcine_emotion.jpg" group-title="CANAIS| Legendados",TVCINE EDITION LEG HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/41874.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVCINE TOP LEG HD" tvg-logo="https://www.actigamer.pt/cnt/uploads/I20H001tvcinetop-e1583912798176.png" group-title="CANAIS| Legendados",TVCINE TOP LEG HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/41873.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OFF HD " tvg-logo="http://toptv2.com:25461/logos/canal-off_HD.png" group-title="CANAIS| Qualidade Superior",OFF HD 
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/43316.m3u8
+#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC HD " tvg-logo="http://toptv2.com:25461/logos/Amc_HD.png" group-title="CANAIS| Qualidade Superior",AMC HD 
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/33335.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL HD " tvg-logo="http://toptv2.com:25461/logos/Discovery_channel.png" group-title="CANAIS| Qualidade Superior",DISCOVERY CHANNEL HD 
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/43312.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET HD " tvg-logo="http://toptv2.com:25461/logos/Animal_Planet_HD.png" group-title="CANAIS| Qualidade Superior",ANIMAL PLANET HD 
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/43324.m3u8
+#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN HD " tvg-logo="http://toptv2.com:25461/logos/axn-HD.png" group-title="CANAIS| Qualidade Superior",AXN HD 
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/43311.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STAR HITS 1 HD " tvg-logo="http://main.itsmydonow.xyz:2095/logos/STAR_HITS_.png" group-title="CANAIS| Qualidade Superior",STAR HITS 1 HD 
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/43323.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SMITHSONIAN HD " tvg-logo="https://apprecs.org/ios/images/app-icons/256/b0/457046192.jpg" group-title="CANAIS| Qualidade Superior",SMITHSONIAN HD 
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/33331.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY 2 HD " tvg-logo="http://toptv2.com:25461/logos/h2-HD.png" group-title="CANAIS| Qualidade Superior",HISTORY 2 HD 
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/43313.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ARTE1 HD " tvg-logo="http://toptv2.com:25461/logos/arte.png" group-title="CANAIS| Qualidade Superior",ARTE1 HD 
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/43322.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MAIS NA TELA HD " tvg-logo="http://toptv2.com:25461/logos/globosat+_HD.png" group-title="CANAIS| Qualidade Superior",MAIS NA TELA HD 
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/43317.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV BRASIL HD " tvg-logo="http://toptv2.com:25461/logos/CANAL_BRASIL_HD.png" group-title="CANAIS| Qualidade Superior",TV BRASIL HD 
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/33323.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY JUNIOR HD &8K" tvg-logo="http://toptv2.com:25461/logos/disney-junior.png" group-title="CANAIS| Qualidade Superior",DISNEY JUNIOR HD &8K
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/33334.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A&E HD " tvg-logo="http://toptv2.com:25461/logos/A&E_HD.png" group-title="CANAIS| Qualidade Superior",A&E HD 
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/43315.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STAR HITS 2 HD " tvg-logo="http://main.itsmydonow.xyz:2095/logos/STAR_HITS2_.png" group-title="CANAIS| Qualidade Superior",STAR HITS 2 HD 
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/43635.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOOB HD " tvg-logo="http://toptv2.com:25461/logos/Gloob_HD.png" group-title="CANAIS| Qualidade Superior",GLOOB HD 
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44133.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN EXTRA HD " tvg-logo="http://toptv2.com:25461/logos/espn_extra_HD.png" group-title="CANAIS| Qualidade Superior",ESPN EXTRA HD 
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44136.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BOMERANG HD " tvg-logo="http://toptv2.com:25461/logos/Boomerang_HD.png" group-title="CANAIS| Qualidade Superior",BOMERANG HD 
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44137.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PRIME BOX BRASIL HD " tvg-logo="http://toptv2.com:25461/logos/PrimeBoxBrazil.png" group-title="CANAIS| Qualidade Superior",PRIME BOX BRASIL HD 
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44139.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="E! HD " tvg-logo="http://toptv2.com:25461/logos/E!_HD.png" group-title="CANAIS| Qualidade Superior",E! HD 
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44142.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN BRASIL HD " tvg-logo="http://toptv2.com:25461/logos/ESPN_Brasil_FHD.png" group-title="CANAIS| Qualidade Superior",ESPN BRASIL HD 
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44143.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN HD " tvg-logo="http://toptv2.com:25461/logos/ESPN_FHD.png" group-title="CANAIS| Qualidade Superior",ESPN HD 
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44144.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV RA TIM BUM HD " tvg-logo="http://toptv2.com:25461/logos/tvr-atim-bbum.png" group-title="CANAIS| Qualidade Superior",TV RA TIM BUM HD 
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44145.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAX HD " tvg-logo="http://toptv2.com:25461/logos/cinemax.png" group-title="CANAIS| Qualidade Superior",CINEMAX HD 
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44146.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO MUNDI HD " tvg-logo="https://operadores.hbo-la.tv/v2/img/nav-logos/hbo-mundi.png" group-title="CANAIS| Qualidade Superior",HBO MUNDI HD 
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44147.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO XTREME HD " tvg-logo="https://i1.wp.com/livetv.tube/wp-content/uploads/2020/02/hbo-xtreme-ao-vivo-1.png?fit=300%2C300&ssl=1" group-title="CANAIS| Qualidade Superior",HBO XTREME HD 
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44148.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV 3 HD " tvg-logo="http://toptv2.com:25461/logos/sport_tv_3_HD.png" group-title="CANAIS| Qualidade Superior",SPORTV 3 HD 
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44149.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VIVA HD " tvg-logo="http://toptv2.com:25461/logos/viva_HD.png" group-title="CANAIS| Qualidade Superior",VIVA HD 
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44150.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CANAL BRASIL HD " tvg-logo="http://toptv2.com:25461/logos/CANAL_BRASIL_HD.png" group-title="CANAIS| Qualidade Superior",CANAL BRASIL HD 
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44151.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="COMBATE HD " tvg-logo="http://toptv2.com:25461/logos/combate_HD.png" group-title="CANAIS| Qualidade Superior",COMBATE HD 
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44152.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TLC HD " tvg-logo="http://toptv2.com:25461/logos/TLC_HD.png" group-title="CANAIS| Qualidade Superior",TLC HD 
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44157.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY KIDS HD " tvg-logo="http://toptv2.com:25461/logos/Discovery_kids.png" group-title="CANAIS| Qualidade Superior",DISCOVERY KIDS HD 
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44158.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO HD " tvg-logo="http://toptv2.com:25461/logos/HBO.png" group-title="CANAIS| Qualidade Superior",HBO HD 
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44159.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2 HD " tvg-logo="http://toptv2.com:25461/logos/HBO2.png" group-title="CANAIS| Qualidade Superior",HBO 2 HD 
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44160.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO + HD " tvg-logo="http://toptv2.com:25461/logos/HBO_Plus.png" group-title="CANAIS| Qualidade Superior",HBO + HD 
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44161.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO FAMILY HD " tvg-logo="http://toptv2.com:25461/logos/HBO_Family.png" group-title="CANAIS| Qualidade Superior",HBO FAMILY HD 
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44162.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO SINGNATURE HD " tvg-logo="http://toptv2.com:25461/logos/HBO_Signature_HD.png" group-title="CANAIS| Qualidade Superior",HBO SINGNATURE HD 
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44163.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO POP HD " tvg-logo="https://www.vivo.com.br/content/dam/vivo-sites/vivo-com-br/homepage/imagens/logos/logo-canal-hbo-pop-252x252.png" group-title="CANAIS| Qualidade Superior",HBO POP HD 
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44164.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 HD " tvg-logo="" group-title="CANAIS| Qualidade Superior",ESPN 2 HD 
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44167.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BAND SPORTS HD " tvg-logo="" group-title="CANAIS| Qualidade Superior",BAND SPORTS HD 
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44168.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BAND NEWS HD " tvg-logo="" group-title="CANAIS| Qualidade Superior",BAND NEWS HD 
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44169.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MEGAPIX HD " tvg-logo="" group-title="CANAIS| Qualidade Superior",MEGAPIX HD 
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44174.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE ACTION HD " tvg-logo="" group-title="CANAIS| Qualidade Superior",TELECINE ACTION HD 
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44175.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE FUN HD " tvg-logo="" group-title="CANAIS| Qualidade Superior",TELECINE FUN HD 
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44176.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE CULT HD " tvg-logo="" group-title="CANAIS| Qualidade Superior",TELECINE CULT HD 
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44177.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE PREMIUM HD &8K" tvg-logo="" group-title="CANAIS| Qualidade Superior",TELECINE PREMIUM HD &8K
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44178.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE TOUCH HD " tvg-logo="" group-title="CANAIS| Qualidade Superior",TELECINE TOUCH HD 
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44179.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE PIPOCA HD " tvg-logo="" group-title="CANAIS| Qualidade Superior",TELECINE PIPOCA HD 
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44180.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO NEWS HD " tvg-logo="" group-title="CANAIS| Qualidade Superior",GLOBO NEWS HD 
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44181.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ID HD " tvg-logo="" group-title="CANAIS| Qualidade Superior",ID HD 
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44182.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 3 HD " tvg-logo="https://imagens.ebc.com.br/CUenmzbpHR0p1au5Tc0NCCn1Fk0=/754x0/smart/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/conmebol_copa_libertadores.png?itok=MFhkivjW" group-title="CANAIS| Qualidade Superior",CONMEBOL TV 3 HD 
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44183.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 4 HD " tvg-logo="https://imagens.ebc.com.br/CUenmzbpHR0p1au5Tc0NCCn1Fk0=/754x0/smart/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/conmebol_copa_libertadores.png?itok=MFhkivjW" group-title="CANAIS| Qualidade Superior",CONMEBOL TV 4 HD 
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44184.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS HD " tvg-logo="" group-title="CANAIS| Qualidade Superior",FOX SPORTS HD 
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44186.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2 HD " tvg-logo="" group-title="CANAIS| Qualidade Superior",FOX SPORTS 2 HD 
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44187.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO KIDS HD " tvg-logo="" group-title="CANAIS| Qualidade Superior",NAT GEO KIDS HD 
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44188.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SBT HD " tvg-logo="" group-title="CANAIS| Qualidade Superior",SBT HD 
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44189.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BAND HD " tvg-logo="" group-title="CANAIS| Qualidade Superior",BAND HD 
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44190.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO SP HD " tvg-logo="" group-title="CANAIS| Qualidade Superior",GLOBO SP HD 
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44227.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RJ HD " tvg-logo="" group-title="CANAIS| Qualidade Superior",GLOBO RJ HD 
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44228.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO MINAS HD " tvg-logo="" group-title="CANAIS| Qualidade Superior",GLOBO MINAS HD 
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44229.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SHEF TV HD " tvg-logo="" group-title="CANAIS| Qualidade Superior",SHEF TV HD 
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44230.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNN BRASIL HD " tvg-logo="" group-title="CANAIS| Qualidade Superior",CNN BRASIL HD 
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44231.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNN ESPANHOL HD " tvg-logo="" group-title="CANAIS| Qualidade Superior",CNN ESPANHOL HD 
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44232.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNN INTERNACIONAL HD " tvg-logo="" group-title="CANAIS| Qualidade Superior",CNN INTERNACIONAL HD 
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44233.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 1 HD " tvg-logo="" group-title="CANAIS| Qualidade Superior",CONMEBOL TV 1 HD 
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44234.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV2 HD " tvg-logo="" group-title="CANAIS| Qualidade Superior",CONMEBOL TV2 HD 
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44235.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DAZN HD " tvg-logo="" group-title="CANAIS| Qualidade Superior",DAZN HD 
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44236.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOOD NETWORK HD " tvg-logo="" group-title="CANAIS| Qualidade Superior",FOOD NETWORK HD 
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44237.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOX NEWS HD " tvg-logo="" group-title="CANAIS| Qualidade Superior",FOX NEWS HD 
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44238.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE CLUBES HD " tvg-logo="" group-title="CANAIS| Qualidade Superior",PREMIERE CLUBES HD 
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44239.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="REDE GENISIS HD " tvg-logo="" group-title="CANAIS| Qualidade Superior",REDE GENISIS HD 
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44240.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="REDE SUPER HD " tvg-logo="" group-title="CANAIS| Qualidade Superior",REDE SUPER HD 
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44241.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="REDE TV HD " tvg-logo="" group-title="CANAIS| Qualidade Superior",REDE TV HD 
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44242.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPACE HD " tvg-logo="" group-title="CANAIS| Qualidade Superior",SPACE HD 
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44243.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV HD " tvg-logo="" group-title="CANAIS| Qualidade Superior",SPORTV HD 
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44244.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV 2 HD " tvg-logo="" group-title="CANAIS| Qualidade Superior",SPORTV 2 HD 
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44245.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT HD " tvg-logo="" group-title="CANAIS| Qualidade Superior",TNT HD 
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44246.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT SERIES HD " tvg-logo="" group-title="CANAIS| Qualidade Superior",TNT SERIES HD 
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44247.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VIKINGS 24 HORAS HD " tvg-logo="" group-title="CANAIS| Qualidade Superior",VIKINGS 24 HORAS HD 
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44248.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FLASH 24 HORAS HD " tvg-logo="" group-title="CANAIS| Qualidade Superior",FLASH 24 HORAS HD 
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44249.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="INTER TV DOS VALES HD " tvg-logo="" group-title="CANAIS| Qualidade Superior",INTER TV DOS VALES HD 
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44250.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LITTLE ANGEL 24 HORAS HD " tvg-logo="" group-title="CANAIS| Qualidade Superior",LITTLE ANGEL 24 HORAS HD 
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44251.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HORA DE AVENTURA 24 HORAS HD " tvg-logo="" group-title="CANAIS| Qualidade Superior",HORA DE AVENTURA 24 HORAS HD 
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44252.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MTV HD " tvg-logo="" group-title="CANAIS| Qualidade Superior",MTV HD 
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44253.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="O Show do Ze Colmeia 24 Horas HD " tvg-logo="" group-title="CANAIS| Qualidade Superior",O Show do Ze Colmeia 24 Horas HD 
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44254.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV DIARIO HD " tvg-logo="" group-title="CANAIS| Qualidade Superior",TV DIARIO HD 
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44257.m3u8
+#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="ANIMAL PLANET HD" tvg-logo="http://toptv2.com:25461/logos/Animal_Planet_HD.png" group-title="CANAIS| Documentários",ANIMAL PLANET HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/14154.m3u8
+#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="ANIMAL PLANET HD" tvg-logo="http://toptv2.com:25461/logos/Animal_Planet_HD.png" group-title="CANAIS| Documentários",ANIMAL PLANET HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13666.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="http://toptv2.com:25461/logos/Discovery_channel.png" group-title="CANAIS| Documentários",DISCOVERY CHANNEL HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13676.m3u8
+#EXTINF:-1 tvg-id="discoverycivilization.br" tvg-name="DISCOVERY CIVILIZATION HD" tvg-logo="http://toptv2.com:25461/logos/discovery-civilization-channel.png" group-title="CANAIS| Documentários",DISCOVERY CIVILIZATION HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/27256.m3u8
+#EXTINF:-1 tvg-id="discoveryhomehealth.br" tvg-name="DISCOVERY H&H HD" tvg-logo="http://toptv2.com:25461/logos/h_h_HD.png" group-title="CANAIS| Documentários",DISCOVERY H&H HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13677.m3u8
+#EXTINF:-1 tvg-id="discoverchannel.br" tvg-name="DISCOVERY ID HD" tvg-logo="http://toptv2.com:25461/logos/ID.png" group-title="CANAIS| Documentários",DISCOVERY ID HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13710.m3u8
+#EXTINF:-1 tvg-id="discoveryscience.br" tvg-name="DISCOVERY SCIENCE HD" tvg-logo="http://toptv2.com:25461/logos/Discovery_Science.png" group-title="CANAIS| Documentários",DISCOVERY SCIENCE HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/4809.m3u8
+#EXTINF:-1 tvg-id="discoverytheater.br" tvg-name="DISCOVERY THEATER HD" tvg-logo="http://toptv2.com:25461/logos/discovery-HD-theater.png" group-title="CANAIS| Documentários",DISCOVERY THEATER HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13679.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TLC HD" tvg-logo="http://toptv2.com:25461/logos/TLC_Discovery.png" group-title="CANAIS| Documentários",DISCOVERY TLC HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/27252.m3u8
+#EXTINF:-1 tvg-id="discoveryturbo.br" tvg-name="DISCOVERY TURBO HD" tvg-logo="http://toptv2.com:25461/logos/DiscoveryTurbO.png" group-title="CANAIS| Documentários",DISCOVERY TURBO HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13680.m3u8
+#EXTINF:-1 tvg-id="discoveryworld.br" tvg-name="DISCOVERY WORLD HD" tvg-logo="http://toptv2.com:25461/logos/discoveryworld.png" group-title="CANAIS| Documentários",DISCOVERY WORLD HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13681.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FISH TV HD" tvg-logo="http://toptv2.com:25461/logos/fishtv_HD.png" group-title="CANAIS| Documentários",FISH TV HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/27253.m3u8
+#EXTINF:-1 tvg-id="foodnetwork.br" tvg-name="FOOD NETWORK HD" tvg-logo="http://toptv2.com:25461/logos/Food_Network_HD.png" group-title="CANAIS| Entretenimento,FOOD NETWORK HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13689.m3u8
+#EXTINF:-1 tvg-id="gnt.br" tvg-name="GNT HD" tvg-logo="http://toptv2.com:25461/logos/gnt_HD.png" group-title="CANAIS| Entretenimento",GNT HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13799.m3u8
+#EXTINF:-1 tvg-id="gnt.br" tvg-name="GNT HD" tvg-logo="http://toptv2.com:25461/logos/gnt_HD.png" group-title="CANAIS| Entretenimento",GNT HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13702.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="H2 HD" tvg-logo="http://toptv2.com:25461/logos/h2-HD.png" group-title="CANAIS| Documentários",H2 HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13703.m3u8
+#EXTINF:-1 tvg-id="historychannel.br" tvg-name="HISTORY CHANNEL HD" tvg-logo="http://toptv2.com:25461/logos/History.png" group-title="CANAIS| Documentários",HISTORY CHANNEL HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/27313.m3u8
+#EXTINF:-1 tvg-id="lifetime.br" tvg-name="LIFETIME HD" tvg-logo="http://toptv2.com:25461/logos/Lifetime_HD.png" group-title="CANAIS| Entretenimento",LIFETIME HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13711.m3u8
+#EXTINF:-1 tvg-id="natgeowild.br" tvg-name="NAT GEO WILD HD" tvg-logo="http://toptv2.com:25461/logos/National-Geographic-Wild-HD.png" group-title="CANAIS| Documentários",NAT GEO WILD HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13719.m3u8
+#EXTINF:-1 tvg-id="nationalgeographic.br" tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="http://toptv2.com:25461/logos/National_Geographic.png" group-title="CANAIS| Documentários",NATIONAL GEOGRAPHIC HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13718.m3u8
+#EXTINF:-1 tvg-id="off.br" tvg-name="OFF HD" tvg-logo="http://toptv2.com:25461/logos/canal-off_HD.png" group-title="CANAIS| Entretenimento",OFF HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13885.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="THE HISTORY CHANNEL" tvg-logo="http://toptv2.com:25461/logos/History.png" group-title="CANAIS| Documentários",THE HISTORY CHANNEL
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13848.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="THE HISTORY CHANNEL HD" tvg-logo="http://toptv2.com:25461/logos/History_HD.png" group-title="CANAIS| Documentários",THE HISTORY CHANNEL HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13709.m3u8
+#EXTINF:-1 tvg-id="tlc.br" tvg-name="TLC HD" tvg-logo="http://toptv2.com:25461/logos/TLC_HD.png" group-title="CANAIS| Documentários",TLC HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13744.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LOADING.... HD" tvg-logo="https://i.dlpng.com/static/png/6826564_preview.png" group-title="CANAIS| Entretenimento",LOADING.... HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/36412.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 12 HD" tvg-logo="http://toptv2.com:25461/logos/a-fazenda.png" group-title="CANAIS| Entretenimento",A FAZENDA 12 HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/14121.m3u8
+#EXTINF:-1 tvg-id="arte1.br" tvg-name="ARTE 1 HD" tvg-logo="http://toptv2.com:25461/logos/arte.png" group-title="CANAIS| Entretenimento",ARTE 1 HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13758.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CANCAO NOVA HD" tvg-logo="http://toptv2.com:25461/logos/cancao-nova.png" group-title="CANAIS| Entretenimento",CANCAO NOVA HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13777.m3u8
+#EXTINF:-1 tvg-id="comedycentral.br" tvg-name="COMEDY CENTRAL" tvg-logo="http://toptv2.com:25461/logos/Comedy_Central.png" group-title="CANAIS| Entretenimento",COMEDY CENTRAL
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13776.m3u8
+#EXTINF:-1 tvg-id="curta.br" tvg-name="CURTA HD" tvg-logo="http://toptv2.com:25461/logos/curta_HD.png" group-title="CANAIS| Entretenimento",CURTA HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13873.m3u8
+#EXTINF:-1 tvg-id="eentertainment.br" tvg-name="E! 2" tvg-logo="http://toptv2.com:25461/logos/E!2.png" group-title="CANAIS| Entretenimento",E! 2
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13683.m3u8
+#EXTINF:-1 tvg-id="eentertainment.br" tvg-name="E! HD" tvg-logo="http://toptv2.com:25461/logos/E!_HD.png" group-title="CANAIS| Entretenimento",E! HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/14129.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBOSAT + HD" tvg-logo="http://toptv2.com:25461/logos/globosat+_HD.png" group-title="CANAIS| Entretenimento",GLOBOSAT + HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13700.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="INTER TV CABUGI HD" tvg-logo="http://toptv2.com:25461/logos/intertv_HD.png" group-title="CANAIS| Entretenimento",INTER TV CABUGI HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/14163.m3u8
+#EXTINF:-1 tvg-id="multishow.br" tvg-name="MULTISHOW HD" tvg-logo="http://toptv2.com:25461/logos/multishow_HD.png" group-title="CANAIS| Entretenimento",MULTISHOW HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13717.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="POLISHOP" tvg-logo="http://toptv2.com:25461/logos/polishop.png" group-title="CANAIS| Entretenimento",POLISHOP
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13889.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RAI ITALIA HD" tvg-logo="http://toptv2.com:25461/logos/rai.png" group-title="CANAIS| Entretenimento",RAI ITALIA HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/27254.m3u8
+#EXTINF:-1 tvg-id="redevida.br" tvg-name="REDE VIDA HD" tvg-logo="http://toptv2.com:25461/logos/Rede_Vida_HD.png" group-title="CANAIS| Entretenimento",REDE VIDA HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13918.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SIC INTERNACIONAL" tvg-logo="http://toptv2.com:25461/logos/SIC_INTERNACIOANL.png" group-title="CANAIS| Entretenimento",SIC INTERNACIONAL
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13900.m3u8
+#EXTINF:-1 tvg-id="trutv.br" tvg-name="TRU TV" tvg-logo="http://toptv2.com:25461/logos/TruTV.png" group-title="CANAIS| Entretenimento",TRU TV
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13902.m3u8
+#EXTINF:-1 tvg-id="viva.br" tvg-name="VIVA" tvg-logo="http://toptv2.com:25461/logos/viva.png" group-title="CANAIS| Entretenimento",VIVA
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13864.m3u8
+#EXTINF:-1 tvg-id="viva.br" tvg-name="VIVA HD" tvg-logo="http://toptv2.com:25461/logos/viva_HD.png" group-title="CANAIS| Entretenimento",VIVA HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13749.m3u8
+#EXTINF:-1 tvg-id="woohoo.br" tvg-name="WOOHOO" tvg-logo="http://toptv2.com:25461/logos/WOHOO.png" group-title="CANAIS| Entretenimento",WOOHOO
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13906.m3u8
+#EXTINF:-1 tvg-id="woohoo.br" tvg-name="WOOHOO HD" tvg-logo="http://toptv2.com:25461/logos/WOHOO_HD.png" group-title="CANAIS| Entretenimento",WOOHOO HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/14135.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB BRASIL HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0024/9137/brand.gif?itok=Mc6oP5BG" group-title="CANAIS| Entretenimento",BBB BRASIL HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44192.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB 21 CAM PRINCIPAL" tvg-logo="" group-title="CANAIS| BBB",BBB 21 CAM PRINCIPAL
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44279.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB 21 CONFESSIONARIO" tvg-logo="" group-title="CANAIS| BBB",BBB 21 CONFESSIONARIO
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44280.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB 21 COZINHA XEPA" tvg-logo="" group-title="CANAIS| BBB",BBB 21 COZINHA XEPA
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44281.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB 21 JARDIM" tvg-logo="" group-title="CANAIS| BBB",BBB 21 JARDIM
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44282.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB 21 MOSAICO" tvg-logo="" group-title="CANAIS| BBB",BBB 21 MOSAICO
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44283.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB 21 PISCINA" tvg-logo="" group-title="CANAIS| BBB",BBB 21 PISCINA
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44284.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB 21 QUARTO COLORIDO" tvg-logo="" group-title="CANAIS| BBB",BBB 21 QUARTO COLORIDO
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44285.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB 21 QUARTO CORDEL" tvg-logo="" group-title="CANAIS| BBB",BBB 21 QUARTO CORDEL
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44286.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB 21 SALA DE ESTAR" tvg-logo="" group-title="CANAIS| BBB",BBB 21 SALA DE ESTAR
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44287.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 1 HD" tvg-logo="" group-title="CANAIS| BBB",BBB CAM 1 HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44288.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 2 HD" tvg-logo="" group-title="CANAIS| BBB",BBB CAM 2 HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44289.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 3 HD" tvg-logo="" group-title="CANAIS| BBB",BBB CAM 3 HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44290.m3u8
+#EXTINF:-1 tvg-id="bandnews.br" tvg-name="BAND NEWS HD" tvg-logo="http://toptv2.com:25461/logos/Band_news_HD.png" group-title="CANAIS| Noticias",BAND NEWS HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13669.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CGTN HD" tvg-logo="http://toptv2.com:25461/logos/CGTN.png" group-title="CANAIS| Noticias",CGTN HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/41308.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNN ARGENTINA HD" tvg-logo="http://toptv2.com:25461/logos/CNN_ARGENTINA_HD.png" group-title="CANAIS| Noticias",CNN ARGENTINA HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/36888.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNN BRASIL HD" tvg-logo="http://toptv2.com:25461/logos/CNN_BRASIL_HD.png" group-title="CANAIS| Noticias",CNN BRASIL HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/36881.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNN BRASIL HD" tvg-logo="http://toptv2.com:25461/logos/CNN_BRASIL_HD.png" group-title="CANAIS| Noticias",CNN BRASIL HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/39357.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNN CANADA HD" tvg-logo="http://toptv2.com:25461/logos/CNN_CANADA_HD.png" group-title="CANAIS| Noticias",CNN CANADA HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/36885.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNN CHILE HD" tvg-logo="http://toptv2.com:25461/logos/CNN_CHILE_HD.png" group-title="CANAIS| Noticias",CNN CHILE HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/36883.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNN COLOMBIA HD" tvg-logo="http://toptv2.com:25461/logos/CNN_COLOMBIA_HD.png" group-title="CANAIS| Noticias",CNN COLOMBIA HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/36886.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNN ESPANA HD" tvg-logo="http://toptv2.com:25461/logos/cnn_espa.png" group-title="CANAIS| Noticias",CNN ESPANA HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/36890.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNN ESPANHOL" tvg-logo="http://toptv2.com:25461/logos/cnn_espa.png" group-title="CANAIS| Noticias",CNN ESPANHOL
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13871.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNN ESPANHOL HD" tvg-logo="http://toptv2.com:25461/logos/cnn_espa.png" group-title="CANAIS| Noticias",CNN ESPANHOL HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/36892.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNN EUROPE HD" tvg-logo="http://toptv2.com:25461/logos/CNN_EUROPE_HD.png" group-title="CANAIS| Noticias",CNN EUROPE HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/36884.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNN INTERNACIONAL HD" tvg-logo="http://toptv2.com:25461/logos/cnn-international.png" group-title="CANAIS| Noticias",CNN INTERNACIONAL HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/36893.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNN INTERNACIONAL HD" tvg-logo="http://toptv2.com:25461/logos/cnn-international_HD.png" group-title="CANAIS| Noticias",CNN INTERNACIONAL HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/14177.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNN MEXICO HD" tvg-logo="http://toptv2.com:25461/logos/CNN_MEXICO_HD.png" group-title="CANAIS| Noticias",CNN MEXICO HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/36889.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNN SERIES HD" tvg-logo="http://toptv2.com:25461/logos/CNN_ORIGINAL_SERIES_HD.png" group-title="CANAIS| Noticias",CNN SERIES HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/41863.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNN TURK HD" tvg-logo="http://toptv2.com:25461/logos/CNN_TURK_HD.png" group-title="CANAIS| Noticias",CNN TURK HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/36887.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNN UK HD" tvg-logo="http://toptv2.com:25461/logos/CNN_USA_HD.png" group-title="CANAIS| Noticias",CNN UK HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/36891.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNN USA HD" tvg-logo="http://toptv2.com:25461/logos/CNN_USA_HD.png" group-title="CANAIS| Noticias",CNN USA HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/36882.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNT HD" tvg-logo="http://toptv2.com:25461/logos/CNT.png" group-title="CANAIS| Noticias",CNT HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/41309.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DW DEUTSCH HD" tvg-logo="http://toptv2.com:25461/logos/DW_HD.png" group-title="CANAIS| Noticias",DW DEUTSCH HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/27258.m3u8
+#EXTINF:-1 tvg-id="globonews.br" tvg-name="GLOBO NEWS DF" tvg-logo="http://toptv2.com:25461/logos/globo-news-logo(1).png" group-title="CANAIS| Noticias",GLOBO NEWS DF
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/14093.m3u8
+#EXTINF:-1 tvg-id="globonews.br" tvg-name="GLOBO NEWS MG HD" tvg-logo="http://toptv2.com:25461/logos/globo-news-logo(1).png" group-title="CANAIS| Noticias",GLOBO NEWS MG HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13880.m3u8
+#EXTINF:-1 tvg-id="globonews.br" tvg-name="GLOBO NEWS SP HD" tvg-logo="http://toptv2.com:25461/logos/globo-news-logo(1).png" group-title="CANAIS| Noticias",GLOBO NEWS SP HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/14176.m3u8
+#EXTINF:-1 tvg-id="globonews.br" tvg-name="GLOBO NEWS SP HD" tvg-logo="http://toptv2.com:25461/logos/globo-news-logo(1).png" group-title="CANAIS| Noticias",GLOBO NEWS SP HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13698.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NEWS CORONAVIRUS HD" tvg-logo="http://toptv2.com:25461/logos/CONECTV%20SP.png" group-title="CANAIS| Noticias",NEWS CORONAVIRUS HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/36915.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NHK HD" tvg-logo="http://img.miptv.ws/NHK.png" group-title="CANAIS| Noticias",NHK HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13884.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RECORD NEWS HD" tvg-logo="http://toptv2.com:25461/logos/Record_News_HD.png" group-title="CANAIS| Noticias",RECORD NEWS HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/14114.m3u8
+#EXTINF:-1 tvg-id="recordnews.br" tvg-name="RECORD NEWS HD" tvg-logo="http://toptv2.com:25461/logos/Record_News_HD.png" group-title="CANAIS| Noticias",RECORD NEWS HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13761.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV5 MONDE" tvg-logo="http://toptv2.com:25461/logos/TV5.png" group-title="CANAIS| Noticias",TV5 MONDE
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13914.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVE HD" tvg-logo="http://toptv2.com:25461/logos/TVE_HD.png" group-title="CANAIS| Noticias",TVE HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/14168.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BAND MINAS HD" tvg-logo="http://toptv2.com:25461/logos/band_minas_HD.png" group-title="CANAIS| Abertos",BAND MINAS HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13668.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BAND NORDESTE HD" tvg-logo="http://toptv2.com:25461/logos/band_NORDESTE_HD.png" group-title="CANAIS| Abertos",BAND NORDESTE HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/27700.m3u8
+#EXTINF:-1 tvg-id="band.br" tvg-name="BAND SP HD" tvg-logo="http://toptv2.com:25461/logos/band_SP_HD.png" group-title="CANAIS| Abertos",BAND SP HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/14179.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BOA VONTADE TV" tvg-logo="http://toptv2.com:25461/logos/boavontadetv.png" group-title="CANAIS| Abertos",BOA VONTADE TV
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13869.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BOA VONTADE TV HD" tvg-logo="http://toptv2.com:25461/logos/boavontadetv.png" group-title="CANAIS| Abertos",BOA VONTADE TV HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/36288.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CANCAO NOVA HD" tvg-logo="http://toptv2.com:25461/logos/cancaao-nova.png" group-title="CANAIS| Abertos",CANCAO NOVA HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13772.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EPTV CENTRAL HD" tvg-logo="http://toptv2.com:25461/logos/EPTV_CENTRAL.png" group-title="CANAIS| Abertos",EPTV CENTRAL HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/33369.m3u8
+#EXTINF:-1 tvg-id="futura.br" tvg-name="FUTURA HD" tvg-logo="http://toptv2.com:25461/logos/Futura.png" group-title="CANAIS| Abertos",FUTURA HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13878.m3u8
+#EXTINF:-1 tvg-id="gloob.br" tvg-name="GLOBO BRASILIA HD" tvg-logo="http://toptv2.com:25461/logos/BRASILIA_HD_GLOBO.png" group-title="CANAIS| Abertos",GLOBO BRASILIA HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/14153.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO BRASILIA HD" tvg-logo="http://toptv2.com:25461/logos/BRASILIA_HD_GLOBO.png" group-title="CANAIS| Abertos",GLOBO BRASILIA HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/14091.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO EPTV CAMPINAS HD" tvg-logo="http://toptv2.com:25461/logos/EPTV_CAMPINAS_GLOBO.png" group-title="CANAIS| Abertos",GLOBO EPTV CAMPINAS HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/36282.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO EPTV RIBEIRAO PRETO HD" tvg-logo="http://toptv2.com:25461/logos/EPTV_RIBEIRAO_PRETO_GLOBO.png" group-title="CANAIS| Abertos",GLOBO EPTV RIBEIRAO PRETO HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/36284.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO EPTV SAO CARLOS HD" tvg-logo="http://toptv2.com:25461/logos/EPTV_SAO_CARLOS_GLOBO.png" group-title="CANAIS| Abertos",GLOBO EPTV SAO CARLOS HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/36285.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTEGRAÇÃO HD" tvg-logo="http://toptv2.com:25461/logos/MG_HD_GLOBO.png" group-title="CANAIS| Abertos",GLOBO INTEGRAÇÃO HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/14169.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTER TV CABUGI HD" tvg-logo="http://toptv2.com:25461/logos/INTER_TV_CABUGI_GLOBO.png" group-title="CANAIS| Abertos",GLOBO INTER TV CABUGI HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/36287.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTER TV JUIZ DE FORA HD" tvg-logo="http://toptv2.com:25461/logos/INTER_TV_JUIZ_DE_FORA_GLOBO.png" group-title="CANAIS| Abertos",GLOBO INTER TV JUIZ DE FORA HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/36286.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO MINAS HD" tvg-logo="http://toptv2.com:25461/logos/MINAS_HD_GLOBO.png" group-title="CANAIS| Abertos",GLOBO MINAS HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13909.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO NORDESTE HD" tvg-logo="http://toptv2.com:25461/logos/NORDESTE_HD_GLOBO.png" group-title="CANAIS| Abertos",GLOBO NORDESTE HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/41859.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO NORDESTE HD" tvg-logo="http://toptv2.com:25461/logos/NORDESTE_HD_GLOBO.png" group-title="CANAIS| Abertos",GLOBO NORDESTE HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/41860.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO PORTUGAL HD" tvg-logo="http://toptv2.com:25461/logos/portugal_GLOBO.png" group-title="CANAIS| Abertos",GLOBO PORTUGAL HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/41876.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RBS PORTO ALEGRE HD" tvg-logo="https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/5/5c/RBS_TV_logo_2008.png/revision/latest?cb=20151110112348" group-title="CANAIS| Abertos",GLOBO RBS PORTO ALEGRE HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/36290.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RIO PRETO HD" tvg-logo="http://toptv2.com:25461/logos/RIO_PRETO_GLOBO.png" group-title="CANAIS| Abertos",GLOBO RIO PRETO HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13879.m3u8
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO RJ HD" tvg-logo="http://toptv2.com:25461/logos/RJ_HD_GLOBO.png" group-title="CANAIS| Abertos",GLOBO RJ HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13910.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RPC CURITIBA HD" tvg-logo="http://toptv2.com:25461/logos/RPC_CURITIBA_HD_GLOBO.png" group-title="CANAIS| Abertos",GLOBO RPC CURITIBA HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/40917.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RPC PARANAESE HD" tvg-logo="http://toptv2.com:25461/logos/RPC_PARANA_HD_GLOBO.png" group-title="CANAIS| Abertos",GLOBO RPC PARANAESE HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13908.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO SP HD" tvg-logo="http://toptv2.com:25461/logos/SP_HD_GLOBO.png" group-title="CANAIS| Abertos",GLOBO SP HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/14090.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV CENTRAL AMERICA CUIABA HD" tvg-logo="http://toptv2.com:25461/logos/Centro_America_GLOBO.png" group-title="CANAIS| Abertos",GLOBO TV CENTRAL AMERICA CUIABA HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/36283.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV DIARIO HD" tvg-logo="http://toptv2.com:25461/logos/Tvvv_diario.png" group-title="CANAIS| Abertos",GLOBO TV DIARIO HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/33364.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV MORENA HD" tvg-logo="http://toptv2.com:25461/logos/Tv_morena_GLOBO.png" group-title="CANAIS| Abertos",GLOBO TV MORENA HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/33363.m3u8
+#EXTINF:-1 tvg-id="idealtv.br" tvg-name="IDEAL TV HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/9b/Ideal_TV_logo.svg/revision/latest/scale-to-width-down/512?cb=20161026011832" group-title="CANAIS| Abertos",IDEAL TV HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/14109.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NHK HD" tvg-logo="http://toptv2.com:25461/logos/NHHK.png" group-title="CANAIS| Abertos",NHK HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13921.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NSC BLUMENAU HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b6/2014_Globo_Premium.png/revision/latest?cb=20141221050850" group-title="CANAIS| Abertos",NSC BLUMENAU HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/14161.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RBI TV HD" tvg-logo="http://toptv2.com:25461/logos/RBI_TV.png" group-title="CANAIS| Abertos",RBI TV HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/36294.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RBS TV PORTO ALEGRE HD" tvg-logo="http://toptv2.com:25461/logos/RBS_TV.png" group-title="CANAIS| Abertos",RBS TV PORTO ALEGRE HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/14148.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RECORD BAHIA HD" tvg-logo="http://toptv2.com:25461/logos/record_bahia.png" group-title="CANAIS| Abertos",RECORD BAHIA HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/41299.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RECORD BELEM HD" tvg-logo="http://toptv2.com:25461/logos/BELEM_RECORD.png" group-title="CANAIS| Abertos",RECORD BELEM HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/41291.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RECORD BRASILIA HD" tvg-logo="http://toptv2.com:25461/logos/Brasilia_RECORD.png" group-title="CANAIS| Abertos",RECORD BRASILIA HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/41293.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RECORD CAMPINAS HD" tvg-logo="http://toptv2.com:25461/logos/RECORD_CAMPINAS.png" group-title="CANAIS| Abertos",RECORD CAMPINAS HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/41300.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RECORD DF HD" tvg-logo="http://toptv2.com:25461/logos/RECORD_MINAS_HD.png" group-title="CANAIS| Abertos",RECORD DF HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/41296.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RECORD NORDESTE HD" tvg-logo="http://toptv2.com:25461/logos/GOIAS_RECORD.png" group-title="CANAIS| Abertos",RECORD NORDESTE HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/41292.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RECORD HD" tvg-logo="http://toptv2.com:25461/logos/RECORD_HD.png" group-title="CANAIS| Abertos",RECORD HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13896.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RECORD ITAPOA HD" tvg-logo="http://toptv2.com:25461/logos/ITAPOAN_RECORD.png" group-title="CANAIS| Abertos",RECORD ITAPOA HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/41294.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RECORD MANAUS HD" tvg-logo="http://toptv2.com:25461/logos/MANAUS_HD_RECORD.png" group-title="CANAIS| Abertos",RECORD MANAUS HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/41290.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RECORD NEWS HD." tvg-logo="http://toptv2.com:25461/logos/Record_News_HD.png" group-title="CANAIS| Abertos",RECORD NEWS HD.
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/41298.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RECORD PARANA HD" tvg-logo="http://toptv2.com:25461/logos/RECORD_PARANA_HD.png" group-title="CANAIS| Abertos",RECORD PARANA HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/41295.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RECORD RIO HD" tvg-logo="https://cdn.mitvstatic.com/channels/br_record-tv-rio-HD_m.png" group-title="CANAIS| Abertos",RECORD RIO HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/41297.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RECORD RJ HD" tvg-logo="http://toptv2.com:25461/logos/RJ_HD_RECORED.png" group-title="CANAIS| Abertos",RECORD RJ HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/14175.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RECORD SP HD" tvg-logo="http://toptv2.com:25461/logos/SP_HD_RECORDp.png" group-title="CANAIS| Abertos",RECORD SP HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13728.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RECORD SP INTERIOR HD" tvg-logo="http://toptv2.com:25461/logos/SP_Interior_RECORD.png" group-title="CANAIS| Abertos",RECORD SP INTERIOR HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/41289.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="REDE AMAZONICA MANAUS" tvg-logo="http://toptv2.com:25461/logos/RedeAmazonica.png" group-title="CANAIS| Abertos",REDE AMAZONICA MANAUS
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/14115.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="REDE BRASIL" tvg-logo="http://toptv2.com:25461/logos/rede-brasil.png" group-title="CANAIS| Abertos",REDE BRASIL
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/33373.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="REDE BRASIL HD" tvg-logo="http://toptv2.com:25461/logos/rede-brasil.png" group-title="CANAIS| Abertos",REDE BRASIL HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13831.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="REDE TV HD" tvg-logo="http://toptv2.com:25461/logos/RedeTV!.png" group-title="CANAIS| Abertos",REDE TV HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13833.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RIT" tvg-logo="http://toptv2.com:25461/logos/RIT.png" group-title="CANAIS| Abertos",RIT
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/14136.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SBT HD" tvg-logo="http://toptv2.com:25461/logos/HD_SBT.png" group-title="CANAIS| Abertos",SBT HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/41302.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SBT BRASIL HD" tvg-logo="http://toptv2.com:25461/logos/BRASIL_SBT.png" group-title="CANAIS| Abertos",SBT BRASIL HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/41307.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SBT CIDADE VERDE HD" tvg-logo="http://toptv2.com:25461/logos/TV_Cidade_Verde.png" group-title="CANAIS| Abertos",SBT CIDADE VERDE HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/41301.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SBT GOIAS HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e0/SBT_Logo_1984.png/revision/latest/scale-to-width-down/340?cb=20190825025731" group-title="CANAIS| Abertos",SBT GOIAS HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/41304.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SBT NORDESTE HD" tvg-logo="https://vignette.wikia.nocookie.net/tvfanon6528/images/5/55/SBT_%281996-2001%29.png/revision/latest/top-crop/width/220/height/220?cb=20200318145135" group-title="CANAIS| Abertos",SBT NORDESTE HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/41305.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SBT RJ HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/42/Logotipo_do_SBT_Interior_RJ.png/200px-Logotipo_do_SBT_Interior_RJ.png" group-title="CANAIS| Abertos",SBT RJ HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/41306.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SBT SD" tvg-logo="http://toptv2.com:25461/logos/SD_SBT.png" group-title="CANAIS| Abertos",SBT SD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/41303.m3u8
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT TV JORNAL HD" tvg-logo="http://toptv2.com:25461/logos/TV_JORNAL_SBT.png" group-title="CANAIS| Abertos",SBT TV JORNAL HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13920.m3u8
+#EXTINF:-1 tvg-id="terraviva.br" tvg-name="TERRA VIVA" tvg-logo="http://toptv2.com:25461/logos/Terra_Viva.png" group-title="CANAIS| Abertos",TERRA VIVA
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/14145.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV ANHANGUERA GOIANIA" tvg-logo="http://toptv2.com:25461/logos/TV_Anhangueraaa.png" group-title="CANAIS| Abertos",TV ANHANGUERA GOIANIA
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13915.m3u8
+#EXTINF:-1 tvg-id="tvaparecida.br" tvg-name="TV APARECIDA HD" tvg-logo="http://toptv2.com:25461/logos/Aparecida.png" group-title="CANAIS| Abertos",TV APARECIDA HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13853.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV BAHIA HD" tvg-logo="http://toptv2.com:25461/logos/tv_bahia.png" group-title="CANAIS| Abertos",TV BAHIA HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/36289.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV BRASIL 2" tvg-logo="http://toptv2.com:25461/logos/tv_brasil_2.png" group-title="CANAIS| Abertos",TV BRASIL 2
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/33508.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV BRASIL HD" tvg-logo="http://toptv2.com:25461/logos/Tv_brasil.png" group-title="CANAIS| Abertos",TV BRASIL HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13854.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV CAMARA HD" tvg-logo="http://toptv2.com:25461/logos/tv-camara.png" group-title="CANAIS| Abertos",TV CAMARA HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13911.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV CENTRAL AMERICA CUIABA HD" tvg-logo="http://toptv2.com:25461/logos/TV_Centro_America.png" group-title="CANAIS| Abertos",TV CENTRAL AMERICA CUIABA HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13792.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV CULTURA HD" tvg-logo="http://toptv2.com:25461/logos/tv-cultura.png" group-title="CANAIS| Abertos",TV CULTURA HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13855.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV DIARIO FORTALEZA" tvg-logo="http://toptv2.com:25461/logos/TV_Diario_Fortalisa.png" group-title="CANAIS| Abertos",TV DIARIO FORTALEZA
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/41862.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV EDUCAÇÃO" tvg-logo="http://toptv2.com:25461/logos/TV_Clube_GLOBO.png" group-title="CANAIS| Abertos",TV EDUCAÇÃO
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/33371.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV ESCOLA HD" tvg-logo="http://toptv2.com:25461/logos/TV-Escola.png" group-title="CANAIS| Abertos",TV ESCOLA HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13857.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV GUARULHOS HD " tvg-logo="http://toptv2.com:25461/logos/TV_ALTO_LITTORAL.png" group-title="CANAIS| Abertos",TV GUARULHOS HD 
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/14092.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV HGTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/04/TV_Rio_Sul.png" group-title="CANAIS| Abertos",TV HGTV HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/36291.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV JUSTICIA HD" tvg-logo="http://toptv2.com:25461/logos/tv-justica.png" group-title="CANAIS| Abertos",TV JUSTICIA HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13903.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV LIBERAL BELEM HD" tvg-logo="http://images.mi.tv/channels/br_tv-liberal_m.png" group-title="CANAIS| Abertos",TV LIBERAL BELEM HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/14146.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV NOVO TEMPO HD" tvg-logo="http://toptv2.com:25461/logos/TV_Novo_Tempo.png" group-title="CANAIS| Abertos",TV NOVO TEMPO HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13862.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV PAI ETERNO" tvg-logo="http://toptv2.com:25461/logos/TV_Pai_Eterno.png" group-title="CANAIS| Abertos",TV PAI ETERNO
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/41861.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV RA TIM BUM HD" tvg-logo="http://toptv2.com:25461/logos/tvr-atim-bbum.png" group-title="CANAIS| Abertos",TV RA TIM BUM HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/14095.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV SENADO HD" tvg-logo="http://toptv2.com:25461/logos/tv-senado.png" group-title="CANAIS| Abertos",TV SENADO HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13912.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV TEM BAURU HD" tvg-logo="http://toptv2.com:25461/logos/TV_TEM_BAURU.png" group-title="CANAIS| Abertos",TV TEM BAURU HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13856.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV TEM SAO JOSE DP RIO PRETO HD" tvg-logo="http://toptv2.com:25461/logos/RIO_PRETO_GLOBO.png" group-title="CANAIS| Abertos",TV TEM SAO JOSE DP RIO PRETO HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/33509.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV TEM SOROCABA" tvg-logo="http://toptv2.com:25461/logos/TV_TEM_SOROCABA.png" group-title="CANAIS| Abertos",TV TEM SOROCABA
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13916.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV TEM SOROCABA HD" tvg-logo="http://toptv2.com:25461/logos/TV_TEM_SOROCABA.png" group-title="CANAIS| Abertos",TV TEM SOROCABA HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/33370.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV TRIBUNA SANTOS" tvg-logo="http://toptv2.com:25461/logos/TV_Tribuna_(Santos).png" group-title="CANAIS| Abertos",TV TRIBUNA SANTOS
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13913.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV TRIBUNA SANTOS HD" tvg-logo="http://toptv2.com:25461/logos/TV_Tribuna_(Santos).png" group-title="CANAIS| Abertos",TV TRIBUNA SANTOS HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/36293.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV VANGUARDA S. J. DOS CAMPOS HD" tvg-logo="http://toptv2.com:25461/logos/tv_vanguarda.png" group-title="CANAIS| Abertos",TV VANGUARDA S. J. DOS CAMPOS HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/36292.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV VERDES MARES FORTALEZA HD" tvg-logo="http://toptv2.com:25461/logos/TV_Verdes_Mares.png" group-title="CANAIS| Abertos",TV VERDES MARES FORTALEZA HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/33366.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RJ HD" tvg-logo="" group-title="CANAIS| Abertos",GLOBO RJ HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44259.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CANAL BOI HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0014/4679/brand.gif?itok=Xj6Hpup2" group-title="CANAIS| Abertos",CANAL BOI HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44291.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO BAHIA HD" tvg-logo="" group-title="CANAIS| Abertos",GLOBO BAHIA HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44301.m3u8
+#EXTINF:-1 tvg-id="babytv.br" tvg-name="BABY TV HD" tvg-logo="http://toptv2.com:25461/logos/babytv.png" group-title="CANAIS| Infantis",BABY TV HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/22367.m3u8
+#EXTINF:-1 tvg-id="boomerang.br" tvg-name="BOOMERANG HD" tvg-logo="http://toptv2.com:25461/logos/Boomerang_HD.png" group-title="CANAIS| Infantis",BOOMERANG HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13753.m3u8
+#EXTINF:-1 tvg-id="cartoonnetwork.br" tvg-name="CARTOON NETWORK HD" tvg-logo="http://toptv2.com:25461/logos/cartoon-network-.png" group-title="CANAIS| Infantis",CARTOON NETWORK HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13673.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CTC LOVE HD" tvg-logo="http://toptv2.com:25461/logos/nickelodeon.png" group-title="CANAIS| Infantis",CTC LOVE HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/41311.m3u8
+#EXTINF:-1 tvg-id="discoverykids.br" tvg-name="DISCOVERY KIDS HD" tvg-logo="http://toptv2.com:25461/logos/Discovery_kids.png" group-title="CANAIS| Infantis",DISCOVERY KIDS HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13678.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY" tvg-logo="http://toptv2.com:25461/logos/Disney.png" group-title="CANAIS| Infantis",DISNEY
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13782.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL HD" tvg-logo="http://toptv2.com:25461/logos/Disney_Channel.png" group-title="CANAIS| Infantis",DISNEY CHANNEL HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13682.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY JUNIOR HD" tvg-logo="http://toptv2.com:25461/logos/disney-junior.png" group-title="CANAIS| Infantis",DISNEY JUNIOR HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13754.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY XD HD" tvg-logo="http://toptv2.com:25461/logos/Disney_XD.png" group-title="CANAIS| Infantis",DISNEY XD HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/27257.m3u8
+#EXTINF:-1 tvg-id="gloob.br" tvg-name="GLOOB HD" tvg-logo="http://toptv2.com:25461/logos/Gloob_HD.png" group-title="CANAIS| Infantis",GLOOB HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13701.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOOBINHO HD" tvg-logo="http://toptv2.com:25461/logos/gloobinho.png" group-title="CANAIS| Infantis",GLOOBINHO HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/27312.m3u8
+#EXTINF:-1 tvg-id="natgeokids.br" tvg-name="NATGEO KIDS HD" tvg-logo="http://toptv2.com:25461/logos/Natgeo_Kids.png" group-title="CANAIS| Infantis",NATGEO KIDS HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13752.m3u8
+#EXTINF:-1 tvg-id="nickjr.br" tvg-name="NICK JR HD" tvg-logo="http://toptv2.com:25461/logos/nick-jr.png" group-title="CANAIS| Infantis",NICK JR HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13720.m3u8
+#EXTINF:-1 tvg-id="nickelodeon.br" tvg-name="NICKELODEON HD" tvg-logo="http://toptv2.com:25461/logos/nickelodeon.png" group-title="CANAIS| Infantis",NICKELODEON HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13897.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PANDA HD" tvg-logo="http://toptv2.com:25461/logos/nickelodeon.png" group-title="CANAIS| Infantis",PANDA HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/41370.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TOM E JERRY 24/7D HD" tvg-logo="http://toptv2.com:25461/logos/nickelodeon.png" group-title="CANAIS| Infantis",TOM E JERRY 24/7D HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/41074.m3u8
+#EXTINF:-1 tvg-id="tooncast.br" tvg-name="TOONCAST HD" tvg-logo="http://toptv2.com:25461/logos/tooncast.png" group-title="CANAIS| Infantis",TOONCAST HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13852.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV RA TIM BUM HD" tvg-logo="http://toptv2.com:25461/logos/tvr-atim-bbum.png" group-title="CANAIS| Infantis",TV RA TIM BUM HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13904.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ZOOMOO HD" tvg-logo="http://toptv2.com:25461/logos/ZooMoo.png" group-title="CANAIS| Infantis",ZOOMOO HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/14130.m3u8
+#EXTINF:-1 tvg-id="bis.br" tvg-name="BIS HD" tvg-logo="http://toptv2.com:25461/logos/BISHD.png" group-title="MUSICA",BIS HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13671.m3u8
+#EXTINF:-1 tvg-id="bis.br" tvg-name="BIS HD" tvg-logo="http://toptv2.com:25461/logos/BISHD.png" group-title="MUSICA",BIS HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13768.m3u8
+#EXTINF:-1 tvg-id="mtv.br" tvg-name="MTV HD" tvg-logo="http://toptv2.com:25461/logos/MTV.png" group-title="MUSICA",MTV HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13716.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC BOX" tvg-logo="http://toptv2.com:25461/logos/MUSIC_BOX.png" group-title="MUSICA",MUSIC BOX
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13751.m3u8
+#EXTINF:-1 tvg-id="playtv.br" tvg-name="PLAY TV" tvg-logo="http://toptv2.com:25461/logos/PLAY_TV.png" group-title="MUSICA",PLAY TV
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13887.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RBI HD" tvg-logo="http://toptv2.com:25461/logos/RBI.png" group-title="MUSICA",RBI HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/27314.m3u8
+#EXTINF:-1 tvg-id="vh1.br" tvg-name="VH1 HD" tvg-logo="http://toptv2.com:25461/logos/VH1.png" group-title="MUSICA",VH1 HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13748.m3u8
+#EXTINF:-1 tvg-id="vh1megahits.br" tvg-name="VH1 MEGAHITS" tvg-logo="http://toptv2.com:25461/logos/VH1_MEGAHITS.png" group-title="MUSICA",VH1 MEGAHITS
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13905.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX AFLAM 1 24/7" tvg-logo="https://appletoolbox.com/wp-content/uploads/2016/07/netflix-app-icon-297x300.png" group-title="24 HORAS / 7 DIAS",NETFLIX AFLAM 1 24/7
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44193.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX AFLAM 2 24/7" tvg-logo="https://appletoolbox.com/wp-content/uploads/2016/07/netflix-app-icon-297x300.png" group-title="24 HORAS / 7 DIAS",NETFLIX AFLAM 2 24/7
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44194.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX AFLAM 3 24/7" tvg-logo="https://appletoolbox.com/wp-content/uploads/2016/07/netflix-app-icon-297x300.png" group-title="24 HORAS / 7 DIAS",NETFLIX AFLAM 3 24/7
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44195.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX AFLAM 4 24/7" tvg-logo="https://appletoolbox.com/wp-content/uploads/2016/07/netflix-app-icon-297x300.png" group-title="24 HORAS / 7 DIAS",NETFLIX AFLAM 4 24/7
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44196.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX AFLAM 5 24/7" tvg-logo="https://appletoolbox.com/wp-content/uploads/2016/07/netflix-app-icon-297x300.png" group-title="24 HORAS / 7 DIAS",NETFLIX AFLAM 5 24/7
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44198.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX AFLAM 6 24/7" tvg-logo="https://appletoolbox.com/wp-content/uploads/2016/07/netflix-app-icon-297x300.png" group-title="24 HORAS / 7 DIAS",NETFLIX AFLAM 6 24/7
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44199.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX AFLAM 7 24/7" tvg-logo="https://appletoolbox.com/wp-content/uploads/2016/07/netflix-app-icon-297x300.png" group-title="24 HORAS / 7 DIAS",NETFLIX AFLAM 7 24/7
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44200.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX AFLAM 8 24/7" tvg-logo="https://appletoolbox.com/wp-content/uploads/2016/07/netflix-app-icon-297x300.png" group-title="24 HORAS / 7 DIAS",NETFLIX AFLAM 8 24/7
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44201.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX AFLAM 9 24/7" tvg-logo="https://appletoolbox.com/wp-content/uploads/2016/07/netflix-app-icon-297x300.png" group-title="24 HORAS / 7 DIAS",NETFLIX AFLAM 9 24/7
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44202.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX AFLAM 10 24/7" tvg-logo="https://appletoolbox.com/wp-content/uploads/2016/07/netflix-app-icon-297x300.png" group-title="24 HORAS / 7 DIAS",NETFLIX AFLAM 10 24/7
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44203.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX SCF F1 24/7" tvg-logo="https://appletoolbox.com/wp-content/uploads/2016/07/netflix-app-icon-297x300.png" group-title="24 HORAS / 7 DIAS",NETFLIX SCF F1 24/7
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44204.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX DRAMA 24/7" tvg-logo="https://appletoolbox.com/wp-content/uploads/2016/07/netflix-app-icon-297x300.png" group-title="24 HORAS / 7 DIAS",NETFLIX DRAMA 24/7
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44205.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX ACTION 24/7" tvg-logo="https://appletoolbox.com/wp-content/uploads/2016/07/netflix-app-icon-297x300.png" group-title="24 HORAS / 7 DIAS",NETFLIX ACTION 24/7
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44206.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX ACTION + 24/7" tvg-logo="https://appletoolbox.com/wp-content/uploads/2016/07/netflix-app-icon-297x300.png" group-title="24 HORAS / 7 DIAS",NETFLIX ACTION + 24/7
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44207.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX ACTION TOP 24/7" tvg-logo="https://appletoolbox.com/wp-content/uploads/2016/07/netflix-app-icon-297x300.png" group-title="24 HORAS / 7 DIAS",NETFLIX ACTION TOP 24/7
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44208.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX ACTIO 1 24/7" tvg-logo="https://appletoolbox.com/wp-content/uploads/2016/07/netflix-app-icon-297x300.png" group-title="24 HORAS / 7 DIAS",NETFLIX ACTIO 1 24/7
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44209.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX ACTION 2 24/7" tvg-logo="https://appletoolbox.com/wp-content/uploads/2016/07/netflix-app-icon-297x300.png" group-title="24 HORAS / 7 DIAS",NETFLIX ACTION 2 24/7
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44210.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX ACTION 3 24/7" tvg-logo="https://appletoolbox.com/wp-content/uploads/2016/07/netflix-app-icon-297x300.png" group-title="24 HORAS / 7 DIAS",NETFLIX ACTION 3 24/7
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44211.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX ACTION 4 24/7" tvg-logo="https://appletoolbox.com/wp-content/uploads/2016/07/netflix-app-icon-297x300.png" group-title="24 HORAS / 7 DIAS",NETFLIX ACTION 4 24/7
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44212.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX ACTION 5 24/7" tvg-logo="https://appletoolbox.com/wp-content/uploads/2016/07/netflix-app-icon-297x300.png" group-title="24 HORAS / 7 DIAS",NETFLIX ACTION 5 24/7
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44213.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX ACTION 6 24/7" tvg-logo="https://appletoolbox.com/wp-content/uploads/2016/07/netflix-app-icon-297x300.png" group-title="24 HORAS / 7 DIAS",NETFLIX ACTION 6 24/7
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44214.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX COMEDY 1 24/7" tvg-logo="https://appletoolbox.com/wp-content/uploads/2016/07/netflix-app-icon-297x300.png" group-title="24 HORAS / 7 DIAS",NETFLIX COMEDY 1 24/7
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44215.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX COMEDY 2 24/7" tvg-logo="https://appletoolbox.com/wp-content/uploads/2016/07/netflix-app-icon-297x300.png" group-title="24 HORAS / 7 DIAS",NETFLIX COMEDY 2 24/7
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44216.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX COMEDY 3 24/7" tvg-logo="https://appletoolbox.com/wp-content/uploads/2016/07/netflix-app-icon-297x300.png" group-title="24 HORAS / 7 DIAS",NETFLIX COMEDY 3 24/7
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44217.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX COMEDY 4 24/7" tvg-logo="https://appletoolbox.com/wp-content/uploads/2016/07/netflix-app-icon-297x300.png" group-title="24 HORAS / 7 DIAS",NETFLIX COMEDY 4 24/7
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44218.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX KIDS 24/7" tvg-logo="https://appletoolbox.com/wp-content/uploads/2016/07/netflix-app-icon-297x300.png" group-title="24 HORAS / 7 DIAS",NETFLIX KIDS 24/7
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44219.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX ANIME 1 24/7" tvg-logo="https://appletoolbox.com/wp-content/uploads/2016/07/netflix-app-icon-297x300.png" group-title="24 HORAS / 7 DIAS",NETFLIX ANIME 1 24/7
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44220.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX ANIME 2 24/7" tvg-logo="https://appletoolbox.com/wp-content/uploads/2016/07/netflix-app-icon-297x300.png" group-title="24 HORAS / 7 DIAS",NETFLIX ANIME 2 24/7
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44221.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX DRAMA 1 24/7" tvg-logo="https://appletoolbox.com/wp-content/uploads/2016/07/netflix-app-icon-297x300.png" group-title="24 HORAS / 7 DIAS",NETFLIX DRAMA 1 24/7
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44222.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX DRAMA 2 24/7" tvg-logo="https://appletoolbox.com/wp-content/uploads/2016/07/netflix-app-icon-297x300.png" group-title="24 HORAS / 7 DIAS",NETFLIX DRAMA 2 24/7
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44223.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX DRAMA 3 24/7" tvg-logo="https://appletoolbox.com/wp-content/uploads/2016/07/netflix-app-icon-297x300.png" group-title="24 HORAS / 7 DIAS",NETFLIX DRAMA 3 24/7
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44224.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX DRAMA 4 24/7" tvg-logo="https://appletoolbox.com/wp-content/uploads/2016/07/netflix-app-icon-297x300.png" group-title="24 HORAS / 7 DIAS",NETFLIX DRAMA 4 24/7
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44225.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX FILMES 2 24/7" tvg-logo="https://appletoolbox.com/wp-content/uploads/2016/07/netflix-app-icon-297x300.png" group-title="24 HORAS / 7 DIAS",NETFLIX FILMES 2 24/7
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44226.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PINKY Y CEREBRO 24/7" tvg-logo="" group-title="24 HORAS / 7 DIAS",PINKY Y CEREBRO 24/7
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44197.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX S-FICTION 1 24/7" tvg-logo="https://appletoolbox.com/wp-content/uploads/2016/07/netflix-app-icon-297x300.png" group-title="24 HORAS / 7 DIAS",NETFLIX S-FICTION 1 24/7
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44292.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX S-FICTION 2 24/7" tvg-logo="https://appletoolbox.com/wp-content/uploads/2016/07/netflix-app-icon-297x300.png" group-title="24 HORAS / 7 DIAS",NETFLIX S-FICTION 2 24/7
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44293.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX TERROR 1 24/7" tvg-logo="https://appletoolbox.com/wp-content/uploads/2016/07/netflix-app-icon-297x300.png" group-title="24 HORAS / 7 DIAS",NETFLIX TERROR 1 24/7
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44294.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX TERROR 2 24/7" tvg-logo="https://appletoolbox.com/wp-content/uploads/2016/07/netflix-app-icon-297x300.png" group-title="24 HORAS / 7 DIAS",NETFLIX TERROR 2 24/7
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44295.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX TERROR 3 24/7" tvg-logo="https://appletoolbox.com/wp-content/uploads/2016/07/netflix-app-icon-297x300.png" group-title="24 HORAS / 7 DIAS",NETFLIX TERROR 3 24/7
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44296.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX TERROR 4 24/7" tvg-logo="https://appletoolbox.com/wp-content/uploads/2016/07/netflix-app-icon-297x300.png" group-title="24 HORAS / 7 DIAS",NETFLIX TERROR 4 24/7
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44297.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX TERROR 5 24/7" tvg-logo="https://appletoolbox.com/wp-content/uploads/2016/07/netflix-app-icon-297x300.png" group-title="24 HORAS / 7 DIAS",NETFLIX TERROR 5 24/7
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44298.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="test" tvg-logo="" group-title="24 HORAS / 7 DIAS",test
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44367.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE HOLLYWOOD HD PPV" tvg-logo="http://kodippv.com/wp-content/uploads/2018/04/ppv-300x180.jpg" group-title="PAY PER VIEW PPV",CINE HOLLYWOOD HD PPV
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/27250.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE MUNDO PPV HD" tvg-logo="http://kodippv.com/wp-content/uploads/2018/04/ppv-300x180.jpg" group-title="PAY PER VIEW PPV",CINE MUNDO PPV HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/31602.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE PPV 1 HD" tvg-logo="http://kodippv.com/wp-content/uploads/2018/04/ppv-300x180.jpg" group-title="PAY PER VIEW PPV",CINE PPV 1 HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/31014.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE PPV 2 HD" tvg-logo="http://kodippv.com/wp-content/uploads/2018/04/ppv-300x180.jpg" group-title="PAY PER VIEW PPV",CINE PPV 2 HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/31015.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE PPV 3 HD" tvg-logo="http://kodippv.com/wp-content/uploads/2018/04/ppv-300x180.jpg" group-title="PAY PER VIEW PPV",CINE PPV 3 HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/31016.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE PPV 4 HD" tvg-logo="http://kodippv.com/wp-content/uploads/2018/04/ppv-300x180.jpg" group-title="PAY PER VIEW PPV",CINE PPV 4 HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/31017.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE PPV 5 HD" tvg-logo="http://kodippv.com/wp-content/uploads/2018/04/ppv-300x180.jpg" group-title="PAY PER VIEW PPV",CINE PPV 5 HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/31018.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVCINE TOP HD LEG" tvg-logo="http://kodippv.com/wp-content/uploads/2018/04/ppv-300x180.jpg" group-title="PAY PER VIEW PPV",TVCINE TOP HD LEG
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/31021.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVCINE EDITION HD LEG" tvg-logo="http://kodippv.com/wp-content/uploads/2018/04/ppv-300x180.jpg" group-title="PAY PER VIEW PPV",TVCINE EDITION HD LEG
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/31022.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVCINE EMOTON HD LEG" tvg-logo="http://kodippv.com/wp-content/uploads/2018/04/ppv-300x180.jpg" group-title="PAY PER VIEW PPV",TVCINE EMOTON HD LEG
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/31023.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVCINE ACTION HD LEG" tvg-logo="http://kodippv.com/wp-content/uploads/2018/04/ppv-300x180.jpg" group-title="PAY PER VIEW PPV",TVCINE ACTION HD LEG
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/31024.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE 1 PPV LT" tvg-logo="" group-title="PAY PER VIEW PPV",CINE 1 PPV LT
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44330.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE 2 PPV LT" tvg-logo="" group-title="PAY PER VIEW PPV",CINE 2 PPV LT
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44331.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE 3 PPV LT" tvg-logo="" group-title="PAY PER VIEW PPV",CINE 3 PPV LT
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44332.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE 4 PPV LT" tvg-logo="" group-title="PAY PER VIEW PPV",CINE 4 PPV LT
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44333.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE 5 PPV LT" tvg-logo="" group-title="PAY PER VIEW PPV",CINE 5 PPV LT
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44334.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE 6 PPV LT" tvg-logo="" group-title="PAY PER VIEW PPV",CINE 6 PPV LT
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44335.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE 7 PPV LT" tvg-logo="" group-title="PAY PER VIEW PPV",CINE 7 PPV LT
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44336.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE 8 PPV LT" tvg-logo="" group-title="PAY PER VIEW PPV",CINE 8 PPV LT
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44337.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE 9 PPV LT" tvg-logo="" group-title="PAY PER VIEW PPV",CINE 9 PPV LT
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44338.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE 10 PPV LT" tvg-logo="" group-title="PAY PER VIEW PPV",CINE 10 PPV LT
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44339.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE 11 PPV LT" tvg-logo="" group-title="PAY PER VIEW PPV",CINE 11 PPV LT
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44340.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE 12 PPV LT" tvg-logo="" group-title="PAY PER VIEW PPV",CINE 12 PPV LT
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44341.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE 1 PPV USA" tvg-logo="" group-title="PAY PER VIEW PPV",CINE 1 PPV USA
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44342.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE 2 PPV USA" tvg-logo="" group-title="PAY PER VIEW PPV",CINE 2 PPV USA
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44343.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE 3 PPV USA" tvg-logo="" group-title="PAY PER VIEW PPV",CINE 3 PPV USA
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44344.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE 4 PPV USA" tvg-logo="" group-title="PAY PER VIEW PPV",CINE 4 PPV USA
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44345.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE 5 PPV USA" tvg-logo="" group-title="PAY PER VIEW PPV",CINE 5 PPV USA
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44346.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE 6 PPV USA" tvg-logo="" group-title="PAY PER VIEW PPV",CINE 6 PPV USA
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44347.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE 7 PPV USA" tvg-logo="" group-title="PAY PER VIEW PPV",CINE 7 PPV USA
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44348.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE 8 PPV USA" tvg-logo="" group-title="PAY PER VIEW PPV",CINE 8 PPV USA
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44349.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE 9 PPV USA" tvg-logo="" group-title="PAY PER VIEW PPV",CINE 9 PPV USA
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44350.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE 10 PPV USA" tvg-logo="" group-title="PAY PER VIEW PPV",CINE 10 PPV USA
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44351.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE 11 PPV USA" tvg-logo="" group-title="PAY PER VIEW PPV",CINE 11 PPV USA
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44352.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE 12 PPV USA" tvg-logo="" group-title="PAY PER VIEW PPV",CINE 12 PPV USA
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44353.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 1 HD" tvg-logo="" group-title="PAY PER VIEW PPV",CINE SKY 1 HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44354.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 2 HD" tvg-logo="" group-title="PAY PER VIEW PPV",CINE SKY 2 HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44355.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 3 HD" tvg-logo="" group-title="PAY PER VIEW PPV",CINE SKY 3 HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44356.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 4 HD" tvg-logo="" group-title="PAY PER VIEW PPV",CINE SKY 4 HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44357.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 5 HD" tvg-logo="" group-title="PAY PER VIEW PPV",CINE SKY 5 HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44358.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 6 HD" tvg-logo="" group-title="PAY PER VIEW PPV",CINE SKY 6 HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44359.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 7 HD" tvg-logo="" group-title="PAY PER VIEW PPV",CINE SKY 7 HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44360.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 8 HD" tvg-logo="" group-title="PAY PER VIEW PPV",CINE SKY 8 HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44361.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 9 HD" tvg-logo="" group-title="PAY PER VIEW PPV",CINE SKY 9 HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44362.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 10 HD" tvg-logo="" group-title="PAY PER VIEW PPV",CINE SKY 10 HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44363.m3u8
